@@ -1,0 +1,22 @@
+
+
+
+
+
+          Closed Variants         |          Open Variants
+                                  |
+  * known tags                    |  * freely extensible tags
+                                  |
+  * no default case               |  * must provide a default case
+                                  |
+  * type system for guarantees    |  * no types needed (necessarily)
+    (if that's important to you)  |
+
+
+
+
+
+
+
+
+
